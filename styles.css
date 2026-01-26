@@ -1,0 +1,54 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+
+/* The header-footer class used to make changes 
+to the header & footer of the resume.*/
+.header-footer{
+    text-align: center;
+    background-color: #827099;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.header-footer h1{
+    color:#E4E1F4;
+    text-decoration: underline;
+}
+
+
+.header-footer ul{
+    
+    padding-left: 0;
+    margin-left: 0;
+    
+}
+
+.header-footer ul li{
+    list-style: none;
+    color: #E4E1F4;
+}
+
+.header-footer ul li a{
+    text-decoration: none;
+    color: #E4E1F4;
+}
+
+.header-footer ul li a:hover{
+    text-decoration: underline;
+    color: #ada6d5;
+}
+
+.header-footer h2{
+    color: #E4E1F4;
+    text-decoration: underline;
+}
+
+/* Customization of the resume photo.*/
+#header img{
+    border-radius: 200px;
+    width: 15%;
+    border: solid 4px #E4E1F4;
+}
+
