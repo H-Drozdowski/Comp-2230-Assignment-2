@@ -10,6 +10,13 @@ to the header & footer of the resume.*/
     background-color: #827099;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    
+    border-bottom: #ada6d5 6px solid;
+    border-top: #ada6d5 6px solid; 
+}
+
+.header-footer p{
+    color: #E4E1F4;
 }
 
 .header-footer h1{
@@ -19,10 +26,8 @@ to the header & footer of the resume.*/
 
 
 .header-footer ul{
-    
     padding-left: 0;
     margin-left: 0;
-    
 }
 
 .header-footer ul li{
@@ -38,11 +43,13 @@ to the header & footer of the resume.*/
 .header-footer ul li a:hover{
     text-decoration: underline;
     color: #ada6d5;
+    font-size: 105%;
 }
 
 .header-footer h2{
     color: #E4E1F4;
     text-decoration: underline;
+    
 }
 
 /* Customization of the resume photo.*/
@@ -52,3 +59,47 @@ to the header & footer of the resume.*/
     border: solid 4px #E4E1F4;
 }
 
+
+/* Customizing the navigation */
+#navigation{
+    text-align: center;
+    background-color:#c0bcd6;
+    padding-top: 0.5rem;
+    border-bottom:#ada6d5 solid 6px;
+    margin-bottom: 0;
+}
+
+#navigation img{
+    width: 2.5%;
+    position: static;
+
+    
+}
+
+#navigation ul{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+#navigation ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #ada6d5;
+}
+
+#navigation ul li a{
+    text-decoration: none;
+    color: #4a3f57;
+    
+}
+
+#navigation ul li a:hover{
+    text-decoration: underline;
+    color: #78658e;
+}
+
+#main {
+    background-color: #f1efff;
+}
