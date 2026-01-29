@@ -2,10 +2,10 @@
 
 ## Color Pallet 
 
-Alabaster Grey = EAEAEA,
-Lavender = E4E1F4,
-vintage lavender = 827099,
-Dusk Blue = 3A4869,
+Alabaster Grey = EAEAEA
+Lavender = E4E1F4
+vintage lavender = 827099
+Dusk Blue = 3A4869
 
 ## Font
 
