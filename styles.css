@@ -2,8 +2,8 @@ body{
     width: 100%;
     margin: 0;
 
-    
-    font-family: "Oswald", sans-serif;
+    font-size: 115%;
+    font-family: "Oswald", serif;
 }
 
 /* The header-footer class used to make changes 
@@ -148,6 +148,7 @@ to the header & footer of the resume.*/
 
 .box-1 p{
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .indent-experience-li{
@@ -159,4 +160,25 @@ to the header & footer of the resume.*/
 
 .ident-skills-li{
     padding-bottom: 0.5rem;
+}
+
+/*Updates the size of different parts
+of the website when on mobile devices.*/
+@media (max-width: 600px){
+
+    body{
+        font-size: 140%;
+    }
+
+    #header img{
+        width: 45%;
+    }
+
+    .box-2 ul{
+    padding-right: 1rem;
+    }
+
+    #navigation img{
+        width: 10%;
+    }
 }

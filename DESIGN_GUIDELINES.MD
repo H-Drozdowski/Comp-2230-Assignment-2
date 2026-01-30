@@ -15,7 +15,7 @@ accessability.
 ## Font
 
 Ill be using Oswald for the font from google fonts.
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap
 
 ## Layout
 
