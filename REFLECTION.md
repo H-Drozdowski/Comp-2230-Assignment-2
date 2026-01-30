@@ -6,11 +6,11 @@ Describe the functionality of your code and its components. How do your code seg
 What was my coding process?
 
 Layout:
-For this assignment I have all of the contents of the body of my resume held within a single <div> set to the "container-1" class.
+For this assignment I have all of the contents of the body of my resume held within a single div set to the "container-1" class.
 Inside of the "container-1" class I set it to be a flex-box that displays in a column, I also set some of the visuals. I then 
-made four classes titled "box-1" - "Box-4" , with visuals set to them all. I then wrapped all the sections (about me, experience, skills, Projects) inside of <div> tags set each to the corresponding box class. This made all of the boxes display bellow each other in a column.
-I wanted the skills and experience boxes to display next to each other but under about me, so I put them both inside their own <div>. I 
-then made a new class called "row-container". I set the <div> to be the "row-container" class and in my css file set the "row-container"
+made four classes titled "box-1" - "Box-4" , with visuals set to them all. I then wrapped all the sections (about me, experience, skills, Projects) inside of div tags set each to the corresponding box class. This made all of the boxes display bellow each other in a column.
+I wanted the skills and experience boxes to display next to each other but under about me, so I put them both inside their own div. I 
+then made a new class called "row-container". I set the div to be the "row-container" class and in my css file set the "row-container"
 class to display the flex boxes in a row so they both display beside each other. Thats how I achieved the layout of my resume. 
 
 responsive design:
